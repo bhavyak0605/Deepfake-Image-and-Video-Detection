@@ -1,0 +1,9 @@
+venv/
+mac_env/
+*/venv/
+*/mac_env/
+__pycache__/
+*.py[cod]
+.DS_Store
+.idea/
+.vscode/
